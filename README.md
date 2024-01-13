@@ -1,4 +1,4 @@
-# StatisticsLabFinalProject
+# Statistics Lab Final Project
 
 The purpose of the task is to conduct a statistical analysis of a specific political party in the 2022 elections and the previous election system in 2021. The task involves preparing a report that describes the voting patterns for the party and explaining the results to ensure a comprehensive understanding of the relevant data for the party. 
 
